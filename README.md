@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/ecommerceproductpagemain-made-with-html-css-and-javascript-0WTMzDsxj)
+- Live Site URL: [Add live site URL here](https://ecommerce-product-page-main.netlify.app/)
 
 
 ### Built with
